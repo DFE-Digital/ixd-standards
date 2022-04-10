@@ -1,0 +1,135 @@
+
+# 9 DfE interaction design principles
+
+1. Understand ALL users; needs, behaviours and pain points
+2. Design accessibly
+3. Follow Gestalt laws
+4. Reduce cognitve load
+5. Support / prevent users making mistakes
+6. Make users do less
+7. Consider context
+8. Design a seamless experience
+9. Design with data and design logic
+
+As a Clan we have pulled together a set of principles and good practices which we use for Interaction Design to provide consistency and guidance to how we apply design rationale and practices leading to great interaction design and a great user experience.
+
+## Principle 1. Understand ALL users; needs, behaviours and pain points
+...so that we are meeting ALL types of user needs for ALL users.
+
+User needs come in different forms; designing for information-based and task-based needs will lead to services which allow users to accomplish their tasks while designing for behaviour-based needs improves the experience as it will have been designed for how they use the service and avoids 'fudges' and workarounds.
+Good practice includes:
+
+- understand the research insights
+- use needs-based personas
+- consider both user needs (including accessibility needs) and business needs
+- fix or mitigate user pain points
+- factor in user behaviours
+- understand 'how' the user does xyz
+- understand 'why' the user does xyz
+- think about what's missing (to feed into UR/workshops)
+
+
+## Principle 2. Design accessibly from the start
+...so that we are inclusive.
+
+Designing for accessibly from the start reduces rework and time, is morally the right thing to do and is a legal requirement.
+Good practice includes:
+
+- use sufficient background/foreground colour contrast
+- use industry recommended sizes for interactive components
+- design structure into pages (headings of different levels, lists...)
+- visually indicate the page focus
+- avoid images of text
+- do not represent information using just colour on its own
+ 
+ 
+## Principle 3. Follow Gestalt laws
+...so that we design for natural human perception.
+
+Gestalt laws are principles which relate to how people naturally perceive visual stimuli, group things together and simplify complex objects. Designers should use these to organise content to maximise natural perception:
+- law of proximity
+- law of closure
+- law of similarity
+- law of continuity
+
+
+## Principle 4. Reduce cognitive load
+...so that we don't overload users.
+
+Unnecessary demands being made on users' mental capacity when completing a task can lead to feeling overwhelmed, anxious and frustrated while increasing mistakes. We should design to support user's short-term memory capacity and allow them to focus on one task at a time.
+Good practice guidance:
+
+- prefill data
+- use summary pages to playback to users
+- make it easy to compare data from different sources
+- miller's law (chunking) to help memory limitations
+- progressive disclosure
+ 
+ 
+## Principle 5. Support / prevent users making mistakes
+...so that users make less errors and can recover from mistakes.
+
+Making mistakes can be frustrating and increase anxiety when users are interacting with a service. To avoid these negative emotions, we should design to reduce in the incidence of errors but also for recovery when mistakes do occur.
+Good practice guidance:
+
+- allow users to undo actions
+- provide confirmation of actions e.g. save and delete
+- provide logical options for checkboxes / radio buttons
+- think error recovery and error prevention
+- make users explicity confirm destructive actions e.g. are you sure you want to delete?
+- add helpful context e.g. hint text
+- include helpful validation messages
+ 
+ 
+## Principle 6. Make users do less
+...so that the experience is faster and easier for users.
+
+A series of additional interactions add up to an experience littered with unnecessary interactions which slow the user down and increase effort. Remove unnecessary interactions when the user can achieve the same goal with less effort and it doesn't impact on their ability to process information. What seems like small interactions will add up to incremental improvements to the overall experience.
+Good practice guidance:
+
+- pre-populate, auto filter, remove redundancies
+- avoid unnecessary or extra interactions / provide short cuts
+- reduce scrolling (use back to top, anchor links)
+- Fitt's law - time relative to size and distance
+- reduce repetitive interactions, (multiple instead of individual)
+
+
+## Principle 7. Consider context
+...so that we are designing for user's circumstances and so users understand their circumstances in relation to using the service.
+Understanding users' circumstances helps us to design for their constraints, while providing context helps users to understand where they are, what they can to do next...etc. Providing information / functionality in context (at the point the user is most likely to need it) saves the user hunting for it or missing it altogether.
+
+All these context related considerations should help manage user expectations, leading to a clearer experience.
+Good practice guidance:
+
+- avoid dead-ends
+- explain what will happen next
+- tell users what they need
+- access to / content at the point users need it
+- indicate timescales
+- consider the end-2-end journey
+- consider environment, IT confidence, pressures and constraints
+- provide timely system feedback
+
+
+## Principle 8. Design a seamless experience
+...so that the user experience is familiar and predictable.
+Users learn how a service looks and works as they are using it. By having consistent designs and interactions, we are helping users to learn more quickly, building on their familarity and re-enforcing their mental models of how to interact with the services.
+Good practice guidance:
+
+- re-use patterns / code where possible and appropriate to conform with user expectations
+- avoid bespoke designs where possible
+- make sure systems look / behave the same
+- maintain documentation e.g. Design histories, design decisions, other IxD dcoumentation
+ 
+ 
+## Principle 9. Design with data and design logic
+...so that everything is grounded in insights and has design rationale.
+
+Insights and design rationale are essential to designing services which meet user needs and expectations rather than creating shiny new functionality which confuses users, is unused or even hinders their use of the service.
+Good practice guidance:
+
+- designs are testing hypothesis
+- features are fulfilling a user need
+- design rationale exists for design decisions
+- follow User Centred Design best practice
+- remove unnecessary components which are not intent driven or do not add value
