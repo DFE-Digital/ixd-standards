@@ -1,37 +1,83 @@
 
 # Ways of working
-##what we do and how we do it
+## What we do and how we do it
 
-Defining our Interaction Design (IxD) ways of working gives us structure, direction and consistency to then do our best work, while for others, understanding what we do and how the team works leads to better collaboration and manages expectations.
+Contents
+- [Purpose]
+- [What we do]
+- [What we don't do]
+- [Being an Interaction Designer]
+- [Stages of Interaction Design]
+- [Interaction Design artefacts]
+- [Our documentation]
+- [Working as a Clan]
+- [Collaborating with other Clans]
+
+---
+
+## Purpose
+Defining our Interaction Design (IxD) ways of working. To help us do our best work, we need structure, direction and consistency. Others may benefit by understanding what we do and how the team works.
+
+Better collaboration and managing expectations is the desired outcome.
+
+[Back to top]
+
+---
+
 
 ## What we do
-Explore design solutions by understanding users, mapping journeys and creating prototypes to test hypotheses and interactions which address user needs, behaviours and pain points while feeding into and supporting other disciplines.
+We: 
+- explore design solutions by understanding users, mapping journeys and creating prototypes
+- test hypotheses and interactions which address user needs, behaviours and pain points
+- feed into and support other disciplines and help to shape direction
+
+[Back to top]
+
+---
 
  
 ## What we don't do
-Fully functional services to GDS standard of coding
+We do not build fully functional services to the GDS coding standard.
 
-We use the prototyping kit to create prototypes for testing concepts and are not developers so our code isn't to GDS coding standards, and isn't expected to be. Prototypes are design artefacts, not an exact representation of the fully developed service with links to databases, validation, error handling and everything functioning - we only prototype what's needed for design / user testing.
+### We use the prototyping kit to create prototypes for testing concepts
+
+Interaction designers are not developers. Our code is not to GDS coding standards and isn't expected to be. Prototypes are design artefacts. Not an exact representation of the fully developed service. Links to databases, validation, error handling and everything functioning may not work. We only prototype what's needed for design and user testing.
+
+[Back to top]
+
+---
 
 
 ## Being an Interaction Designer
-There's more to being a designer than just the designing; we follow a number of techniques and approaches to become better designers...
+There's more to being a designer than just the designing. We follow a number of techniques and approaches to become better designers.
 
-- follow GDS principles of how to be an Interaction Designer (opens new tab)
-- follow IxD Clan principles and good practice of how to do IxD
+We:
+
+- follow GDS principles of [how to be an Interaction Designer (opens new tab)](https://www.gov.uk/guidance/government-design-principles)
+- follow [IxD Clan principles and good practice](https://github.com/annechan209/ixd-standards/commit/82dd83e33bffc4737f18eceb5d896e0846604a3b) of how to do IxD
 - collaborate with each other
-- collaborate with other Clans
+- collaborate with other professions
 - work openly so we can be supported and can support others and reuse
 - reuse patterns for consistency between services
 - continually learn and develop
+
+## How we collaborate and work within teams
+We:
+
   - share prototypes, journey maps and other IxD outputs
   - document design decisions (what and why)
-  - do Design Reviews so we have awareness of work, can support each other and address differences between services
+  - do Collaborative Design Reviews and crits so we have awareness of work, can support each other and address differences between services
   - document Design Review outcomes for future reference
   - centralise shared documents and IxD outputs in a single location
   - maintain design histories / handover docs
   - share working boards (Lucid / Figma)
+  - feed new or iterated designs into the GDS community backlog
+  - support delivery teams to track behaviours in the live code so we can learn and iterate future designs based on live usage
  
+[Back to top]
+
+---
+
  
 ## Stages of Interaction Design
 Our approach uses a mix of cognitive, strategic and practical processes which we've grouped into 5 iterative and looping stages to help keep focus on users and their needs.
@@ -46,13 +92,15 @@ Activities in this phase include:
 - challenge assumptions
 - review existing service(s)
 - collaborate with Content Design (CD) and Service Design (SD) to understand and map the As-Is user journey
-- create design histories (TBC if IxD or project team task
+- create design histories (TBC if IxD or project team task)
 - review user stories reflect identified user needs
 - stakeholder management (as appropriate)
 
 ### Define
 Activities in this phase include:
-- define (with the team) MVP / what to test / needs to be met
+- define the problem (with the team) MVP / what to test / needs to be met
+- define the scope
+- define the gaps
 - challenge assumptions
 - define tasks to complete
 - create design histories (TBC if IxD task or team task)
@@ -63,11 +111,11 @@ Activities in this phase include:
 Activities in this phase include:
 - explore concepts, options and journeys
 - collaborate with UR to analyse and understand user needs (behaviours, task-based and informational needs) and identify gaps
-- collaborate with CD / SD on information Architecture and journeys
+- collaborate with Content Design / Service Design on Information Architecture and journeys
 - collaborate with devs to undestand what's possible / practical
 - map solutions and needs
 - mock up the experince (Low / high fidelity sketches / wireframes / prototypes - using the prototype kit)
-- collaborative Design Reviews
+- Collaborative Design Reviews
 - adhere to and champion accessibility standards
 - adhere to and champion IxD principles and good practice
 - reuse patterns and code as appropriate
@@ -76,12 +124,14 @@ Activities in this phase include:
 - share learnings
 - collaborate and feed into User Research so we learn how users behave, their needs and pain points and identify any gaps
 - stakeholder management (as appropriate)
+- review designs in the repo before they go live with development team
+- run design sprint with the whole team to co-create ideas/solutions
 
 ### Refine
 Activities in this phase include:
 - collaborate and feed into User Research so we learn how users behave, their needs and pain points and identify any gaps
 - evaluate and evolve / iterate prototypes / journeys based on UR or design review
-- collaborative Design Reviews
+- Collaborative Design Reviews
 - collaborate on dev build
 - support accessibility testing
 - documentation (design histories)
@@ -93,68 +143,85 @@ Activities in this phase include:
 - celebrate successes
 - support UR
 - learn and iterate cycle
+- documentation
+
+[Back to top]
+
+---
 
  
-## Interaction Design artefacts
+## Interaction Design artefacts - our north star
 We use a variety of tools to help us create Interaction Design outputs depending on the purpose, time available and what's "good enough" to meet the intended purpose which impact on the level of fidelity (level of detail/realism).
 
 ### Journey maps
-- understanding user journeys at a high level; boxes and arrows using anything that works e.g. pen and paper, post-its, virtual whiteboard
-- understanding the journey and expected contents at a medium level; use representative mini pages from a library in Figma or Lucid
+- high level understanding (boxes and arrows) - using anything that works e.g. pen and paper, post-its, virtual whiteboard
+- medium level understanding (journey and expected contents) - using representative mini pages from a library in Figma or Lucid
 
 ### Prototypes
-- understanding high level concepts for problem solving and discussion; Figma or Lucid
-- testing interactions and journeys with users; interactive prototypes using GDS prototyping kit and Visual Studio
- 
+- concepts for problem solving and discussion; digital sketches, for example, using Figma or Lucidspark
+- testing interactions and journeys; using GDS prototype kit and Visual Studio
+
+[Back to top]
+
+---
+
+
 ## Our documentation
 Interaction Design is about more than just prototyping and journey mapping - we have other design outputs which help us to do our work, help with onboarding new team members and to better support or pick up each other's work.
 
-Documentation we create, maintain and use:
-- 'things' which help us to track of and document design rationale of our work:
+### To track of and document design rationale of our work:
   - design backlog for future consideration
-  - collaborative Design Review feedback (design decisions made, why and any alternative designs)
+  - Collaborative Design Review feedback (design decisions made, why and any alternative designs)
   - design histories
   - agreed consistent approach to prototype versioning
 
-- 'things' which help us stay up to date with each other
+### To help us stay up to date with each other
   - IxD updates document (updated weekly)
   - Clan Trello board for logging and tracking actions from Clan sessions
   - Clan slack channel
 
-- 'things' we share and work on together
+### To share and work on together
   - shared, reusbale Figma design library
   - central location for easy access to our IxD and Clan work
   - service differences Lucidspark board
   - behavioural needs Lucidspark board
   - Clan foundation activities Lucidspark boards
 
+[Back to top]
+
+---
+
 
 ## Working as a Clan
 Adopting a collaborative and supportive Clan culture is essential for us to build and grow as a team to deliver our best work.
 
 How we work as a Clan:
-- communicate with each other
+  - communicate with each other
   - celebrate successes
   - slack channel so we can communicate quickly
   - regular catch ups for wellbeing and relationship building
   - weekly IxD updates document to keep up to date with each other
 
-- share skills, knowlege and experiences
+Share skills, knowlege and experiences
   - share our work in a central location e.g. prototypes, journey maps, patterns...
-  - weekly collaborative Design Reviews (keep up-to-date, explore alternatives, get and give feedback and improve consistency between the services)
+  - weekly Collaborative Design Reviews (keep up-to-date, explore alternatives, get and give feedback and improve consistency between the services)
   - coaching - share knowledge, skills and experiences so we learn from each other/together
   - discuss topics of interest
   - co-design workshops so we can support each other or learn
 
-- improve delivery of services
+Improve delivery of services
   - compare services for consistency
   - maintain a backlog of identified opportunities for improvements
   - identify and collaborate on new patterns
 
-- evolve the Clan
+Evolve the Clan
   - activities to evolve the Clan together so we grow together
   - create our Clan plan together so we're sharing doing what we want as a collective
  
+[Back to top]
+
+---
+
  
 ## Collaborating with other Clans
 For a truly User Centred Design (UCD) approach, the different professions need to work together to meet user needs.
@@ -166,4 +233,3 @@ For a truly User Centred Design (UCD) approach, the different professions need t
 ### Collaborating with Developers
 
 ### Collaborating with Business Analysts
-
