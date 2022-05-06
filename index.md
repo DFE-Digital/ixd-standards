@@ -1,20 +1,20 @@
-# 9 DfE interaction design principles
+# 9 DfE interaction design principles <a name="top"></a>
 
-1. [Understand ALL users; needs, behaviours and pain points](#abcd) *** JHGJHGKJHKJHKJHKJHK ***
-2. [Design accessibly]
-3. [Follow Gestalt laws]
-4. [Reduce cognitve load]
-5. [Support / prevent users making mistakes]
-6. [Make users do less]
-7. [Consider context]
-8. [Design a seamless experience]
-9. [Design with data and design logic]
+1. [Understand ALL users; needs, behaviours and pain points](#understand-all-users)
+2. [Design accessibly](#design-accessibily)
+3. [Follow Gestalt laws](#gestalt-laws)
+4. [Reduce cognitve load](#reduce-cognitive loads)
+5. [Support / prevent users making mistakes](#mistakes)
+6. [Make users do less](#d-less)
+7. [Consider context](#context)
+8. [Design a seamless experience](#seamless)
+9. [Design with data and design logic](#data-and-logic)
 
 As a Clan (team) we have pulled together a set of principles and good practices which we use for Interaction Design to provide consistency and guidance to how we apply design rationale and practices, leading to great interaction design and a great user experience.
 
 We also design our services to meet the government design principles, and the service standard.
 
-## Principle 1. Understand all users; needs, behaviours and pain points
+## Principle 1. Understand all users; needs, behaviours and pain points <a name="understand-all-users"></a>
 ...so that we understand all users and their needs with an ambition to meet them.
 
 User needs come in different forms. Designing for information-based and task-based needs will lead to a service/journey which will allow users to complete their task(s) to see an outcome.
@@ -32,24 +32,24 @@ You should:
 - understand 'why' the user does xyz
 - think about what's missing (to feed into UR/workshops)
 
-[Back to top]
+[Back to top] (#top)
 
 ---
 
 
-## Principle 2. Design accessibly from the start
+## Principle 2. Design accessibly from the start <a name="design-accessibly"></a>
 ...so that [we are inclusive (opens in new tab)] (https://www.gov.uk/service-manual/design/making-your-service-more-inclusive). We need to design and deliver services that work for everyone ([Service standard 5 - opens in new tab])(https://www.gov.uk/service-manual/service-standard/point-5-make-sure-everyone-can-use-the-service).
 
 Designing for accessibly from the start reduces rework and time, is morally the right thing to do and is a legal requirement.
 
 We design to meet [accessibility standard (opens in new tab)]().
 
-### Legislation
+### Legislation 
 We may be breaking the law if we design services which are not accessible.
 
 [Equality act 2010] (https://www.gov.uk/guidance/equality-act-2010-guidance) covers all public sector bodies.
 
-### Good practice for accessibility
+### Good practice for accessibility 
 You should:
 
 - use sufficient background/foreground colour contrast
@@ -60,12 +60,12 @@ You should:
 - not represent information using just colour on its own
 - find pains a user might have using a journey map to understand where the journey/paths are not easy to use by everyone
  
-[Back to top]
+[Back to top] (#top)
 
 ---
 
 
-## Principle 3. Follow Gestalt laws
+## Principle 3. Follow Gestalt laws <a name="gestalt-laws"></a>
 ...so that we design for natural human perception.
 
 Gestalt laws are principles which relate to how people naturally perceive visual stimuli, group things together and simplify complex objects. Designers should use these to organise content to maximise natural perception:
@@ -77,12 +77,12 @@ You should:
 - law of similarity
 - law of continuity
 
-[Back to top]
+[Back to top] (#top)
 
 ---
 
 
-## Principle 4. Reduce cognitive load <a name="abcd"></a> ***SDKSLJFLSJFLSKJ***
+## Principle 4. Reduce cognitive load <a name="reduce-cognitve-load"></a>
 ...so that we don't overload users.
 
 Unnecessary demands being made on users' mental capacity when completing a task can lead to feeling overwhelmed, anxious and frustrated while increasing mistakes. We should design to support user's short-term memory capacity and allow them to focus on one task at a time.
@@ -96,12 +96,12 @@ You should:
 - follow Miller's law (chunking) to help memory limitations
 - apply progressive disclosure
  
-[Back to top]
+[Back to top] (#top)
 
 ---
 
  
-## Principle 5. Support / prevent users making mistakes
+## Principle 5. Support / prevent users making mistakes <a name="mistakes"></a>
 ...so that users make less errors and can recover from mistakes.
 
 Making mistakes can be frustrating and increase anxiety when users are interacting with a service. To avoid these negative emotions, we should design to reduce the chance of users making mistakes but also for recovery when mistakes do occur.
@@ -117,12 +117,12 @@ You should:
 - add helpful context - for example, use hint text
 - include helpful validation messages
  
-[Back to top]
+[Back to top] (#top)
 
 ---
 
  
-## Principle 6. Make users do less
+## Principle 6. Make users do less <a name="do-less"></a>
 ...so that the experience is faster and easier for users. [Service standard 4](https://www.gov.uk/service-manual/service-standard/point-4-make-the-service-simple-to-use)
 
 A series of additional interactions add up to an experience littered with unnecessary interactions which slow the user down and increase effort. Remove unnecessary interactions when the user can achieve the same goal with less effort and it doesn't impact on their ability to process information. What seems like small interactions will add up to incremental improvements to the overall experience.
@@ -136,12 +136,12 @@ You should:
 - follow Fitt's law - time relative to size and distance
 - reduce repetitive interactions
 
-[Back to top]
+[Back to top] (#top)
 
 ---
 
 
-## Principle 7. Consider context
+## Principle 7. Consider context <a name="context"></a>
 ...so that we are designing for user's circumstances and so users understand their circumstances in relation to using the service.
 
 Understanding users' circumstances helps us to design for their constraints. Providing context helps users to understand where they are and what they can to do next. Provide information and functionality in context - at the point the user is most likely to need it. Save the user hunting for it, or missing it altogether.
@@ -160,12 +160,12 @@ You should:
 - consider environment, IT confidence, pressures and constraints
 - provide timely system feedback
 
-[Back to top]
+[Back to top] (#top)
 
 ---
 
 
-## Principle 8. Design a seamless experience
+## Principle 8. Design a seamless experience <a name="seamless"></a>
 ...so that the user experience is familiar and predictable.
 
 Users learn how a service looks and works as they are using it. By having consistent designs and interactions, we are helping users to learn more quickly, building on their familarity and re-enforcing their mental models of how to interact with the services.
@@ -178,12 +178,12 @@ You should:
 - make sure systems look / behave the same
 - maintain documentation e.g. Design histories, design decisions, other IxD dcoumentation
  
-[Back to top]
+[Back to top] (#top)
 
 ---
 
  
-## Principle 9. Design with data and design logic
+## Principle 9. Design with data and design logic <a name="data-and-logic"></a>
 ...so that everything is grounded in insights and evidence to provide robust design rationale.
 
 Insights and design rationale are essential to designing services which meet user needs and expectations. As opposed to creating shiny new functionality which confuses users, is unused or even hinders their use of the service.
@@ -197,7 +197,7 @@ You should:
 - follow User Centred Design best practice
 - remove unnecessary components which are not intent driven or do not add value
  
-[Back to top]
+[Back to top] (#top)
 
 ---
 
