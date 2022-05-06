@@ -32,7 +32,7 @@ You should:
 - understand 'why' the user does xyz
 - think about what's missing (to feed into UR/workshops)
 
-[Back to top] (#top)
+[Back to top](#top)
 
 ---
 
@@ -60,7 +60,7 @@ You should:
 - not represent information using just colour on its own
 - find pains a user might have using a journey map to understand where the journey/paths are not easy to use by everyone
  
-[Back to top] (#top)
+[Back to top](#top)
 
 ---
 
@@ -77,7 +77,7 @@ You should:
 - law of similarity
 - law of continuity
 
-[Back to top] (#top)
+[Back to top](#top)
 
 ---
 
@@ -96,7 +96,7 @@ You should:
 - follow Miller's law (chunking) to help memory limitations
 - apply progressive disclosure
  
-[Back to top] (#top)
+[Back to top](#top)
 
 ---
 
@@ -117,7 +117,7 @@ You should:
 - add helpful context - for example, use hint text
 - include helpful validation messages
  
-[Back to top] (#top)
+[Back to top](#top)
 
 ---
 
@@ -136,7 +136,7 @@ You should:
 - follow Fitt's law - time relative to size and distance
 - reduce repetitive interactions
 
-[Back to top] (#top)
+[Back to top](#top)
 
 ---
 
@@ -160,7 +160,7 @@ You should:
 - consider environment, IT confidence, pressures and constraints
 - provide timely system feedback
 
-[Back to top] (#top)
+[Back to top](#top)
 
 ---
 
@@ -178,7 +178,7 @@ You should:
 - make sure systems look / behave the same
 - maintain documentation e.g. Design histories, design decisions, other IxD dcoumentation
  
-[Back to top] (#top)
+[Back to top](#top)
 
 ---
 
@@ -197,7 +197,7 @@ You should:
 - follow User Centred Design best practice
 - remove unnecessary components which are not intent driven or do not add value
  
-[Back to top] (#top)
+[Back to top](#top)
 
 ---
 
