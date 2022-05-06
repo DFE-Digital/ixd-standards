@@ -10,9 +10,9 @@
 8. [Design a seamless experience]
 9. [Design with data and design logic]
 
-As a Clan we have pulled together a set of principles and good practices which we use for Interaction Design to provide consistency and guidance to how we apply design rationale and practices leading to great interaction design and a great user experience.
+As a Clan (team) we have pulled together a set of principles and good practices which we use for Interaction Design to provide consistency and guidance to how we apply design rationale and practices, leading to great interaction design and a great user experience.
 
-We also design our services to meet the government design principles, and the service standard
+We also design our services to meet the government design principles, and the service standard.
 
 ## Principle 1. Understand all users; needs, behaviours and pain points
 ...so that we understand all users and their needs with an ambition to meet them.
