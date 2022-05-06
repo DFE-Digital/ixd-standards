@@ -45,8 +45,6 @@ Designing for accessibly from the start reduces rework and time, is morally the 
 
 We design to meet <a href="https://www.w3.org/WAI/standards-guidelines" target="_blank">accessibility standards (opens in new tab)</a>
 
-[accessibility standard - opens in new tab]().
-
 ### Legislation 
 We may be breaking the law if we design services which are not accessible.
 
