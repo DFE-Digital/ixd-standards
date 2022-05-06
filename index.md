@@ -38,7 +38,7 @@ You should:
 
 
 ## Principle 2. Design accessibly from the start <a name="design-accessibly"></a>
-...so that [we are inclusive (opens in new tab)](https://www.gov.uk/service-manual/design/making-your-service-more-inclusive). We need to design and deliver services that work for everyone ([Service standard 5 - opens in new tab])(https://www.gov.uk/service-manual/service-standard/point-5-make-sure-everyone-can-use-the-service).
+...so that [we are inclusive - opens in new tab](https://www.gov.uk/service-manual/design/making-your-service-more-inclusive). We need to design and deliver services that work for everyone.[Service standard 5 - opens in new tab](https://www.gov.uk/service-manual/service-standard/point-5-make-sure-everyone-can-use-the-service).
 
 Designing for accessibly from the start reduces rework and time, is morally the right thing to do and is a legal requirement.
 
@@ -123,7 +123,7 @@ You should:
 
  
 ## Principle 6. Make users do less <a name="do-less"></a>
-...so that the experience is faster and easier for users. [Service standard 4](https://www.gov.uk/service-manual/service-standard/point-4-make-the-service-simple-to-use)
+...so that the experience is faster and easier for users. [Service standard 4 - opens in new tab](https://www.gov.uk/service-manual/service-standard/point-4-make-the-service-simple-to-use)
 
 A series of additional interactions add up to an experience littered with unnecessary interactions which slow the user down and increase effort. Remove unnecessary interactions when the user can achieve the same goal with less effort and it doesn't impact on their ability to process information. What seems like small interactions will add up to incremental improvements to the overall experience.
 
