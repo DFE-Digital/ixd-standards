@@ -3,7 +3,7 @@
 1. [Understand ALL users; needs, behaviours and pain points](#understand-all-users)
 2. [Design accessibly](#design-accessibily)
 3. [Follow Gestalt laws](#gestalt-laws)
-4. [Reduce cognitve load](#reduce-cognitive loads)
+4. [Reduce cognitve load](#reduce-cognitive-loads)
 5. [Support / prevent users making mistakes](#mistakes)
 6. [Make users do less](#d-less)
 7. [Consider context](#context)
