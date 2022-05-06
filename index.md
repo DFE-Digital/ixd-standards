@@ -1,7 +1,7 @@
 # 9 DfE interaction design principles <a name="top"></a>
 
 1. [Understand ALL users; needs, behaviours and pain points](#understand-all-users)
-2. [Design accessibly](#design-accessibily)
+2. [Design accessibly](#design-accessibly)
 3. [Follow Gestalt laws](#gestalt-laws)
 4. [Reduce cognitve load](#reduce-cognitive-loads)
 5. [Support / prevent users making mistakes](#mistakes)
