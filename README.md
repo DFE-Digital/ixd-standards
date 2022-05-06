@@ -5,4 +5,4 @@ My Interaction Design (IxD) Clan and I (Anne Chan) worked together to produce in
 
 These have been reviewed, iterated and adopted by the wider DfE design community. We follow the same standards for more consistent and predictable designs which make our services more familiar and therefore easier to use for our users.
 
-[DfE Principles and good practice](https://github.com/DFE-Digital/ixd-standards/blob/main/DfE-interaction-design-principles)
+
