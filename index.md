@@ -1,4 +1,4 @@
-# RTESTINGINGINGNS 9 DfE interaction design principles
+# 9 DfE interaction design principles
 
 1. [Understand ALL users; needs, behaviours and pain points]
 2. [Design accessibly]
