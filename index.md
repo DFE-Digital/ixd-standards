@@ -38,7 +38,7 @@ You should:
 
 
 ## Principle 2. Design accessibly from the start <a name="design-accessibly"></a>
-...so that [we are inclusive (opens in new tab)](https://www.gov.uk/service-manual/design/making-your-service-more-inclusive). We need to design and deliver services that work for everyone. [Service standard 5 (opens in new tab)](a href="https://www.gov.uk/service-manual/service-standard/point-5-make-sure-everyone-can-use-the-service" target="_blank">Service standard 5 (opens in new tab)</a>).
+...so that [we are inclusive (opens in new tab)](https://www.gov.uk/service-manual/design/making-your-service-more-inclusive). We need to design and deliver services that work for everyone. <a href="https://www.gov.uk/service-manual/service-standard/point-5-make-sure-everyone-can-use-the-service" target="_blank">Service standard 5 (opens in new tab)</a>
 
 Designing for accessibly from the start reduces rework and time, is morally the right thing to do and is a legal requirement.
 
