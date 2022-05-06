@@ -1,6 +1,6 @@
 # 9 DfE interaction design principles
 
-1. [Understand ALL users; needs, behaviours and pain points]
+1. [Understand ALL users; needs, behaviours and pain points](#abcd)
 2. [Design accessibly]
 3. [Follow Gestalt laws]
 4. [Reduce cognitve load]
@@ -65,7 +65,7 @@ You should:
 ---
 
 
-## Principle 3. Follow Gestalt laws
+## Principle 3. Follow Gestalt laws <a name="abcd"></a>
 ...so that we design for natural human perception.
 
 Gestalt laws are principles which relate to how people naturally perceive visual stimuli, group things together and simplify complex objects. Designers should use these to organise content to maximise natural perception:
